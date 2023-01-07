@@ -227,6 +227,11 @@ img {
 }
 
 /* For medium devices */
-
+@media screen and (min-width: 576px){
+  .login__form{
+    width: 450px;
+    justify-self: center;
+  }
+}
 
 /* For large devices */
